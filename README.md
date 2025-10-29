@@ -12,15 +12,3 @@ A web-based **CMS** for managing streaming content (movies, TV shows, live strea
 
 ## Technologies
 PHP, Laravel, MySQL, Blade, Tailwind CSS, OMDb API
-
-## Getting Started
-1. Clone the repo:  
-   `git clone <repository-url>`  
-2. Install dependencies:  
-   `composer install`  
-3. Configure `.env` with database credentials and `OMDB_API_KEY`  
-4. Run migrations:  
-   `php artisan migrate`  
-5. Start the server:  
-   `php artisan serve`  
-6. Visit [http://localhost:8000](http://localhost:8000)
